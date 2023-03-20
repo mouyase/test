@@ -1,0 +1,44 @@
+{
+    "baseURL": "https://mouyase.github.io/YojigenLite-Template",
+    "languageCode": "zh-cn",
+    "title": "网站标题",
+    "theme": "YojigenLite",
+    "paginate": 5,
+    "menu": {
+        "main": [
+            {
+                "name": "菜单1",
+                "url": "/",
+                "weight": 997
+            },
+            {
+                "name": "菜单2",
+                "url": "/",
+                "weight": 998
+            },
+            {
+                "name": "菜单3",
+                "url": "/",
+                "weight": 999
+            }
+        ]
+    },
+    "params": {
+        "subTitle": "网站副标题",
+        "keywords": [
+            "关键词1",
+            "关键词2",
+            "关键词3"
+        ],
+        "friends": [
+            {
+                "title": "YojigenLite",
+                "url": "https://github.com/mouyase/YojigenLite"
+            },
+            {
+                "title": "四次元科技",
+                "url": "https://yojigen.tech/"
+            }
+        ]
+    }
+}
